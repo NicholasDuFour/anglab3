@@ -1,0 +1,18 @@
+body {
+  font-family: 'Kavivanar', serif;
+  display: flex;
+  flex-direction: column;
+  background-color: #fde5ff; /*light purple*/
+  color: #5f0068; /*dark purple*/
+}
+
+input {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+button {
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+}
